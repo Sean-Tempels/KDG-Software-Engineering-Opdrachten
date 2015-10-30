@@ -1,0 +1,35 @@
+D:\KDG\2de Jaar (PDT)\Programmeren 2 (V3D)\Les 2\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+D:\KDG\2de Jaar (PDT)\Programmeren 2 (V3D)\Les 2\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+D:\KDG\2de Jaar (PDT)\Programmeren 2 (V3D)\Les 2\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+D:\KDG\2de Jaar (PDT)\Programmeren 2 (V3D)\Les 2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+D:\KDG\2de Jaar (PDT)\Programmeren 2 (V3D)\Les 2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+D:\KDG\2de Jaar (PDT)\Programmeren 2 (V3D)\Les 2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+D:\KDG\2de Jaar (PDT)\Programmeren 2 (V3D)\Les 2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.TeerlingView.resources
+D:\KDG\2de Jaar (PDT)\Programmeren 2 (V3D)\Les 2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+D:\KDG\2de Jaar (PDT)\Programmeren 2 (V3D)\Les 2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+D:\KDG\2de Jaar (PDT)\Programmeren 2 (V3D)\Les 2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.TeerlingView.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.ScoreboardView.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2_3\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2_3\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2_3\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2_3\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2_3\Yahtzee\Yahtzee\obj\Debug\Yahtzee.ScoreboardView.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2_3\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2_3\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2_3\Yahtzee\Yahtzee\obj\Debug\Yahtzee.TeerlingView.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2_3\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2_3\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Les 2_3\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\Gebruiker\Desktop\SE-Opdrachten\KDG-Software-Engineering-Opdrachten\Sean-Tempels\-opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\Gebruiker\Desktop\SE-Opdrachten\KDG-Software-Engineering-Opdrachten\Sean-Tempels\-opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\Gebruiker\Desktop\SE-Opdrachten\KDG-Software-Engineering-Opdrachten\Sean-Tempels\-opdracht-02-technische-analyse\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
